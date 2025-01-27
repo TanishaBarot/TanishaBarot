@@ -3,7 +3,7 @@
 🌟 A curious mind with a passion for exploring data-driven solutions  
 🤖 Enthusiastic about Machine Learning, NLP, and Analytics  
 🤝 I’m looking for help with Job/Internship Opportunities  
-🌱 I’m currently new skills in Data Science, Analytics, and AI   
+🌱 I’m currently learning new skills in Data Science, Analytics, and AI   
 🤝 Open to meaningful collaborations and exciting opportunities  
 💬 Ask me about Anything But Everything
 
